@@ -1,0 +1,1 @@
+A sample app for Diamond Provenance on Blockchain. Uses the idea that each Diamond has a unique refration pattern, which can be used as the unique signature for that diamond and stored in blockchain. This can be used for proving authenticity and tracking Diamond across the supply chain.
